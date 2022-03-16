@@ -1,8 +1,5 @@
 Some text in TestFile1
 Tanya
 Liza
-<<<<<<< HEAD
 Daniil
-=======
-Jimm
->>>>>>> branch2
+
