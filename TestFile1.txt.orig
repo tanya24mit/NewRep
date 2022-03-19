@@ -1,0 +1,11 @@
+Some text in TestFile1
+Tanya master
+Liza
+katya
+changes from B3
+new changes
+<<<<<<< HEAD
+=======
+B4 C1
+B4 C2
+>>>>>>> 8cb334f (B4 C2)
