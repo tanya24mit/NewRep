@@ -1,7 +1,5 @@
 Some text in TestFile1
-Tanya master changes changes from master
+Tanya master
 Liza
 katya
-Changes from B2
-+++++++++++++
 
